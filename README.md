@@ -1,0 +1,1 @@
+create database face_recogn  CHARACTER SET utf8;
